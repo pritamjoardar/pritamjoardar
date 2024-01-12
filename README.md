@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Joardar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NewTech**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-alpha-lovat-91.vercel.app/](https://portfolio-alpha-lovat-91.vercel.app/)
 

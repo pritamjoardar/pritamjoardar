@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NewTech**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alpha-lovat-91.vercel.app/](https://portfolio-alpha-lovat-91.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.pritamjoardar.online/](https://www.pritamjoardar.online/)
 
 - 💬 Ask me about **Anything**
 

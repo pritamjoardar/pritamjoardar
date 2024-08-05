@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NewTech**
 
-- 👨‍💻 All of my projects are available at [https://www.pritamjoardar.online/](https://www.pritamjoardar.site/)
+- 👨‍💻 All of my projects are available at [https://www.pritamjoardar.site/](https://www.pritamjoardar.site/)
 
 - 💬 Ask me about **Anything**
 

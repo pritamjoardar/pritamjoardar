@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **pritamjoardar200027@gmail.com**
-
 - ⚡ Fun fact **I don’t believe in bugs, I just think they’re tiny little features that are trying to get out and see the world! 😂**
 
 <h3 align="left">Connect with me:</h3>
